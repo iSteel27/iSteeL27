@@ -1,46 +1,36 @@
-<!--
-**iSteel27/iSteeL27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Mukesh
 
-Here are some ideas to get you started:
+I’m a **Backend Developer** specializing in **C#, .NET, LINQ, and Oracle SQL**.  
+My focus is on building **robust, scalable, and compliant systems** with seamless backend–frontend integration.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-Hi, I'm Mukesh 👋
-I am a Backend-end Developer.
+---
 
-I strive while utilising both the logical and creative part of the brain. I feel most in my place while continuously operating in these roles as a back-end developer within a team. I stand for quality, innovation and building useful products with a focus on the human using the product. I am a proactive, confident and communicatively strong person always looking ahead in the future.
-<!--
-Writing 📝
-I write a lot on a wide range of topics regarding Development Skills and everything linked to that. You can have a look at DevBlog
+## 💼 Professional Profile
+- 🔧 Strong expertise in **backend development** with C# and .NET  
+- 🗄️ Skilled at **database design and query optimization** using Oracle SQL  
+- 🔄 Experienced in **translating LINQ queries to Oracle SQL** for enterprise applications  
+- 🎯 Adept at **frontend integration**, ensuring accessibility and smooth UI/UX  
+- 🛠️ Resourceful in **debugging plugin bindings** and correcting schema/model mismatches  
+- 📊 Committed to **audit/logging compliance** for operational clarity
 
-My latest articles:
+---
 
-📝 The infinite legacy cycle in front-end
-📝 Remix’ powerful hidden feature you might not have noticed yet
-📝 Remix LoaderFunction vs ActionFunction
-📝 First look at Remix
-📝 You should use the Intl browser API
-YouTube 🎥
-I publish a new YouTube video on the Frontmen channel with front-end tips every Friday. You can check it out here!
+## 🛠️ Core Skills
+- **Languages & Frameworks**: C#, .NET, LINQ, Oracle SQL  
+- **Frontend Tools**: CSS, Select2 customization, accessibility-focused UI  
+- **Integration**: Backend–frontend harmony, plugin lifecycle management  
+- **Problem Solving**: Schema accuracy, query translation, compliance-driven design
 
-My latest videos:
+---
 
-📝 Creating multiscreen apps with the Presentation API | Friday Tips 12
-📝 A first look at the Shape Detection API | Friday Tips 11
-📝 Automate common code review chores with DangerJS | Friday Tips 10
-📝 Visual regression testing with Chromatic for Storybook | Friday Tips 9
-📝 CodeTour Visual Studio Code extension | Friday Tips 8
--->
-Social 📱
-You can find me on the following social media platforms or send me an email:
+## 📈 Career Goals
+- Deliver **enterprise-grade solutions** with strong compliance and performance  
+- Expand expertise in **competitive programming** for problem-solving excellence  
+- Contribute to **open-source projects** that improve developer productivity  
+- Build systems that balance **backend reliability** with **frontend usability**
 
+---
 
-👔 LinkedIn
-🗣 Twitter
+## 🌐 Connect With Me
+- 👔 [LinkedIn](https://www.linkedin.com/in/mukesh-bhagat-841847171)  
+- 📫 Email: *muk3sh@zoho.com*
